@@ -53,7 +53,5 @@ Atualmente estou focado em:
 <p align="center">✨ Obrigado por visitar meu perfil! ✨</p>
 
 
-### 📊 GitHub Contributions Snake
 
-![snake gif](https://raw.githubusercontent.com/guhsierra/guhsierra/output/github-contribution-grid-snake.svg)
 
